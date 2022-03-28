@@ -10,5 +10,4 @@
 ### Connect with me:
 
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/mahmut-edip-negiz-6b1145213/)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/mahmut-edip-negiz-6b1145213/)
-&nbsp;&nbsp;
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
