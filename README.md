@@ -1,4 +1,4 @@
-### Hi there, I am Mahmut Edip 👋
+# Hi there, I am Mahmut Edip 👋
 
 ## I'm a AWS | DevOps Engineer
 
