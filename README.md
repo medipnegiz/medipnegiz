@@ -10,7 +10,6 @@
 ### Connect with me:
 
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/mahmut-edip-negiz-6b1145213/)
-[![website](./img/linux.svg)](https://www.linkedin.com/in/mahmut-edip-negiz-6b1145213/)
 
 ### Languages and Tools:
 
