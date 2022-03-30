@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Python, Linux
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Learning and traveling more
-- ⚡ Fun fact: I love woodworking and traveling
+- ⚡ Fun fact: I love traveling, discovering and woodworking
 
 ### Connect with me:
 
