@@ -9,6 +9,7 @@
 
 ### Connect with me:
 
+[![website](./img/gmail.svg)](mailto:mahmutedipnegiz@gmail.com)
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/mahmut-edip-negiz-6b1145213/)
 
 ### Languages and Tools:
