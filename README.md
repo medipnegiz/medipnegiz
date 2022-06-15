@@ -24,7 +24,7 @@
 <img align="left" alt="GitHub" width="30px" src="https://cdn.worldvectorlogo.com/logos/linux-tux-2.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="36px" src="https://cdn.worldvectorlogo.com/logos/agile-software.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="36px" src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="44px" src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" style="padding-right:10px;" />
 <br>
 
 ---
