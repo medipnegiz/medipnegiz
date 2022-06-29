@@ -11,7 +11,7 @@
 
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/mahmutedipnegiz/)
 [<img align="left" alt="HTML5" width="30px" src="./img/gmail.svg" style="padding-right:10px;" />](mailto:mahmutedipnegiz@gmail.com)
-[<img align="left" alt="HTML5" width="30px" src="./img/it.svg" style="padding-right:10px;" />]([mailto:mahmutedipnegiz@gmail.com](https://www.get-in-it.de/profil/lochctVRUeMZaPAsWwkmiaB6Faf9BDjI))
+[<img align="left" alt="HTML5" width="30px" src="./img/it.svg" style="padding-right:10px;" />](https://www.get-in-it.de/profil/lochctVRUeMZaPAsWwkmiaB6Faf9BDjI)
 
 ### Languages and Tools:
 
