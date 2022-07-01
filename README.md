@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning AWS and Linux
 - 👯 I’m looking to collaborate with other AWS Cloud and DevOps Engineers
 - 🥅 2022 Goals: Learning and traveling more
-- ⚡ Fun fact: I love traveling, discovering and woodworking
+- ⚡ Fun fact: I love traveling, swimming, discovering and woodworking
 
 ### Connect with me:
 
