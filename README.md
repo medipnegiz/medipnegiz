@@ -29,6 +29,7 @@
 <img align="left" alt="GitHub" width="32px" src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="20px" src="https://cdn.worldvectorlogo.com/logos/jenkins-1.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://cdn.worldvectorlogo.com/logos/grafana.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn.worldvectorlogo.com/logos/ansible.svg" style="padding-right:10px;" />
 
 <br>
