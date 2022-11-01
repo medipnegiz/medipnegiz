@@ -12,7 +12,7 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/mahmutedipnegiz/)
 [<img align="left" alt="MAIL" width="30px" src="./img/gmail.svg" style="padding-right:10px;" />](mailto:mahmutedipnegiz@gmail.com)
 [<img align="left" alt="GETIN" width="30px" src="./img/it.jpg" style="padding-right:10px;" />](https://www.get-in-it.de/profil/lochctVRUeMZaPAsWwkmiaB6Faf9BDjI)
-[<img align="left" alt="XINK" width="26px" src="https://cdn.worldvectorlogo.com/logos/xing-icon.svg" style="padding-right:10px;" />](https://www.xing.com/profile/MahmutEdip_Negiz2)
+[<img align="left" alt="XINK" width="20px" src="https://cdn.worldvectorlogo.com/logos/xing-icon.svg" style="padding-right:10px;" />](https://www.xing.com/profile/MahmutEdip_Negiz2)
 
 
 ### Languages and Tools:
