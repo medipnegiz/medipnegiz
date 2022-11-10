@@ -1,8 +1,7 @@
 # Hi there, I am Mahmut Edip 👋
 
-## I'm a AWS | DevOps Engineer
+## I'm a Cloud | DevOps Engineer
 
-- 🌱 I’m currently learning DevOps Tools
 - 👯 I’m looking to collaborate with other AWS Cloud and DevOps Engineers
 - 🥅 2022 Goals: Learning and traveling more
 - ⚡ Fun fact: I love traveling, swimming, discovering and woodworking
