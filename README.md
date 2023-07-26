@@ -31,8 +31,6 @@
 <img align="left" alt="GitHub" width="28px" src="https://cdn.worldvectorlogo.com/logos/grafana.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn.worldvectorlogo.com/logos/ansible.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="30px" src="https://cdn.worldvectorlogo.com/logos/prometheus.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="34px" src="https://editorconfig.org/logos/maven.png" style="padding-right:6px;" />
-<img align="left" alt="GitHub" width="30px" src="https://help.sonatype.com/docs/files/331022/34537964/3/1564671303641/NexusRepo_Icon.png" style="padding-right:10px;" />
 <br>
 
 ---
