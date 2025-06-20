@@ -3,7 +3,7 @@
 ## I'm a Cloud | DevOps Engineer
 
 - 👯 I’m looking to collaborate with other AWS Cloud and DevOps Engineers
-- 🥅 2024 Goals: Learning and traveling more
+- 🥅 2025 Goals: Learning and traveling more
 - ⚡ Fun fact: I love traveling, swimming, discovering and woodworking
 
 ### Connect with me:
