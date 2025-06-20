@@ -23,7 +23,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="30px" src="https://cdn.worldvectorlogo.com/logos/linux-tux-2.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="44px" src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="40px" src="https://seeklogo.com/images/D/docker-logo-CF97D0124B-seeklogo.com.png" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="40px" src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="32px" src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="20px" src="https://cdn.worldvectorlogo.com/logos/jenkins-1.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" style="padding-right:10px;" />
